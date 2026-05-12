@@ -1,0 +1,196 @@
+# OS
+.DS_Store
+Thumbs.db
+Icon?
+ehthumbs.db
+*.swp
+*~ 
+
+# IDEs / editors
+.vscode/
+.vscode-test/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Posit / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+dist/
+build/
+*.egg-info/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+venv.bak/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+jupyter_runtime/
+nbconfig/
+
+# R package / build artifacts
+.Rbuildignore
+inst/doc/
+man/  # optionally ignore doc build artifacts
+packrat/
+renv/library/
+renv/cache/
+
+# Node / JavaScript
+node_modules/
+dist/
+build/
+.next/
+.out/
+.cache/
+.eslintcache
+*.tgz
+.npm/
+
+# Data / DBs / caches
+*.sqlite
+*.db
+*.db3
+*.log
+*.bak
+*.cache
+.cache/
+
+# Compiled / language artifacts
+*.o
+*.so
+*.dll
+*.exe
+*.class
+*.jar
+*.war
+*.pyc
+
+# Containers
+docker-compose.override.yml
+.envrc
+.env.local
+.env.*.local
+.env
+docker-compose.*.yml
+
+# Keys / credentials / secrets
+*.pem
+*.key
+*.crt
+credentials/
+secrets/
+*.p12
+
+# CI / build outputs / reports
+coverage/
+reports/
+target/
+out/
+artifacts/
+junit.xml
+
+# Generated figures / images
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.eps
+*.pdf
+
+# Generated docs
+*.html
+*.htm
+*.pdf
+
+# Misc
+.idea_modules/
+*.log
+local.properties
+coverage-report/
+*.local
+*.orig
+.sass-cache/
+.cache/
+
+# Data files
+raw/
+tidy/
+*.csv
+*.tsv
+
+# Spatial data / GIS
+# Rasters
+*.tif
+*.tiff
+*.vrt
+*.kea
+*.img
+*.bil
+*.hdr
+*.aux
+*.aux.xml
+*.ovr
+*.jp2
+*.sid
+*.ers
+*.grd
+*.asc
+*.nc
+*.h5
+*.hdf
+
+# Vectors and geodatabases
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+*.qix
+*.qpj
+*.geojson
+*.topojson
+*.kml
+*.kmz
+*.gml
+*.gpkg
+*.sqlite
+*.spatialite
+*.gdb/
+
+# Point clouds
+*.las
+*.laz
+
+# Tiles / bundles
+*.mbtiles
+
+# GIS project / style files
+*.mxd
+*.qgs
+*.qgz
+*.lyr
+*.lyrx
+*.sld
+
+# Allow list example (uncomment to keep)
+# !.env.example

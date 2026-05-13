@@ -108,6 +108,7 @@ artifacts/
 junit.xml
 
 # Generated figures / images
+README_files/
 *.png
 *.jpg
 *.jpeg

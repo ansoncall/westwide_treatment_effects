@@ -13,6 +13,9 @@ ehthumbs.db
 *.sublime-workspace
 *.sublime-project
 
+# AI tools 
+.claude/
+
 # Posit / RStudio
 .Rproj.user/
 .Rhistory
